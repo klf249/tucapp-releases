@@ -11,8 +11,8 @@ Official public release binaries for **Tucapp**.
 | --- | --- |
 | Android | `Tucapp.apk` |
 | Linux | `Tucapp-Linux-x64.AppImage` or `Tucapp-Linux-x64.deb` |
+| macOS | `Tucapp-macOS-universal.dmg` or `Tucapp-macOS-universal.zip` |
 | Windows | Published after Authenticode signing is complete |
-| macOS | Published after Developer ID signing and Apple notarization are complete |
 
 Use `SHA256SUMS.txt` from a release to verify downloaded files.
 
