@@ -1,19 +1,19 @@
 # Tucapp Releases
 
-Official public installers for **Tucapp**.
+Official public release binaries for **Tucapp**.
 
 **Website:** https://www.tucapp.com  
 **Latest release:** https://github.com/klf249/tucapp-releases/releases/latest
 
 ## Downloads
 
-| Platform | Official package |
+| Platform | Public package |
 | --- | --- |
 | Android | `Tucapp.apk` |
-| Windows | `Tucapp-Windows-x64-Setup.exe` |
 | Linux | `Tucapp-Linux-x64.AppImage` or `Tucapp-Linux-x64.deb` |
-| macOS | `Tucapp-macOS-universal.dmg` when available |
+| Windows | Published after Authenticode signing is complete |
+| macOS | Published after Developer ID signing and Apple notarization are complete |
 
-Use `SHA256SUMS.txt` from the latest release to verify downloaded files.
+Use `SHA256SUMS.txt` from a release to verify downloaded files.
 
-This repository is dedicated to official release binaries. Tucapp application source code is maintained separately.
+This repository contains public release binaries and update metadata only. Tucapp application source code is maintained separately.
